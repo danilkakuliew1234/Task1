@@ -1,0 +1,6 @@
+C:\Users\Danya\source\repos\task1\Table\bin\Debug\Table.dll
+C:\Users\Danya\source\repos\task1\Table\bin\Debug\Table.pdb
+C:\Users\Danya\source\repos\task1\Table\obj\Debug\Table.csprojAssemblyReference.cache
+C:\Users\Danya\source\repos\task1\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\task1\Table\obj\Debug\Table.dll
+C:\Users\Danya\source\repos\task1\Table\obj\Debug\Table.pdb
